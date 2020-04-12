@@ -1,0 +1,6 @@
+[submodule "vendor/github.com/containers/image"]
+	path = vendor/github.com/containers/image
+	url = https://github.com/containers/image
+[submodule "vendor/github.com/opencontainers/image-spec"]
+	path = vendor/github.com/opencontainers/image-spec
+	url = https://github.com/opencontainers/image-spec
